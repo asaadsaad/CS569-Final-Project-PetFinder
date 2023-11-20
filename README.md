@@ -8,7 +8,7 @@ After they log in successfully, a `BreedService` will fetch the list of "Dog" br
 The main navigation displays two features: `Search`, and `Bookmarks`. 
 
 ### Search Component
-A search form will be displayed to search by the following fields:
+A search form will be displayed to search for all "Dog" type animals, by the following fields:
 * `name` (input)
 * `type` (hidden field, set to "Dog")
 * `breed` (multiple values checkboxes, values read from your BreedService)
